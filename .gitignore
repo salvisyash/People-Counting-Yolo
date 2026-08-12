@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# YOLO model weights
+yolov4.weights
+
+# Video files
+Data/main.mp4

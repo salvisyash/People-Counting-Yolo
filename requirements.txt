@@ -1,0 +1,3 @@
+yolo
+opencv-python
+numpy
